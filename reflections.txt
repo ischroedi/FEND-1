@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+1. I've learned the skill, to research at the web for the markup to display that like in the MOCKUP
+2. That was okay and easy, but it took some time to research the right html5 tag 
+3. After a few years of coding html5 were the new figure and figcaption new and sometimes difficult to use, the img tag always cames around :-o
+4. the solving strategie was like these
+-- looking at the mockup
+-- building the first elements like h1-h4
+-- building the paragraph
+-- building the fonts linke strong and em
+-- creating the image links 
+-- creating the links
+-- creating the other tags like sup and s 
+-- checking the "big" picture
+!!! Working linke the DOMTREE works in this projects fine :D 
